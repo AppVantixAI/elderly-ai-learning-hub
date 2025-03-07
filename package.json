@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    "homepage": "https://appvantixai.github.io/elderly-ai-learning-hub",
   },
   "dependencies": {
     "framer-motion": "^12.4.10",
